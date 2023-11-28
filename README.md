@@ -5,4 +5,6 @@ This is where you can find the list of the rooms that is available for Zinc's Cy
 https://github.com/ZhiHaoZinc/THMGuide.git
 
 **List of TryHackMe Rooms**
-1. Cybersecurity Basics: https://tryhackme.com/room/csbasics
+**Try Out Room** (Intro to Zinc's Cyber Thursday):  https://tryhackme.com/jr/introzct
+
+1. Cybersecurity Basics: https://tryhackme.com/jr/csbasics
