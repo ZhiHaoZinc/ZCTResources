@@ -9,3 +9,4 @@ https://github.com/ZhiHaoZinc/THMGuide.git
 **Try Out Room** (Intro to Zinc's Cyber Thursday):  https://tryhackme.com/jr/introzct
 
 1. Cybersecurity Basics: https://tryhackme.com/jr/csbasics
+2. LLM (Large Language Model): ***coming soon***
